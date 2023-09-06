@@ -1,0 +1,79 @@
+﻿@model Member
+
+<form method="post" enctype="multipart/form-data">
+	<input asp-for="Id" hidden />
+	<input asp-for="ImageUrl" hidden />
+	
+	<div class="row">
+		<div class="col-10">
+			<div>
+				<h1 class="text pt-4"> Edit member</h1>
+				<div class="form-group">
+					<label asp-for="Name" class="form-label mt-4">Name</label>
+					<input asp-for="Name" asp-route-id="id" class="form-control" placeholder="Enter name">
+					<span asp-validation-for="Name" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="Age" class="form-label mt-4">Age</label>
+					<input asp-for="Age" class="form-control" placeholder="Enter age">
+					<span asp-validation-for="Age" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="Address" class="form-label mt-4">Address</label>
+					<input asp-for="Address" class="form-control" placeholder="Enter address">
+				</div>
+				<div class="form-group">
+					<label asp-for="Phone" class="form-label mt-4">Phone</label>
+					<input asp-for="Phone" class="form-control" placeholder="Enter phone">
+				</div>
+				<div class="form-group">
+					<label asp-for="Sessions" class="form-label mt-4">Sessions</label>
+					<input asp-for="Sessions" class="form-control" placeholder="Enter number of sessions">
+					<span asp-validation-for="Sessions" class="text-danger"></span>
+				</div>
+
+
+				<div class="form-group">
+					<label for="Rank" class="form-label mt-4">Select rank</label>
+					<select asp-for="Rank" class="form-select">
+						<option>White belt</option>
+						<option>Blue belt</option>
+						<option>Purple belt</option>
+						<option>Brown belt</option>
+						<option>Black belt</option>
+					</select>
+					<span asp-validation-for="Name"></span>
+				</div>
+
+
+				<div class="form-group">
+					<label asp-for="AdditionalInformations" class="form-label mt-4">Additional informations</label>
+					<textarea asp-for="AdditionalInformations" class="form-control" rows="3"></textarea>
+				</div>
+
+				<div class="form-group">
+					<label for="ImageUrl" class="form-label mt-4">Choose file</label>
+					<input asp-for="ImageUrl" class="form-control" type="file" name="file" id="formFile">
+				</div>
+
+
+				<button type="submit" class="btn btn-primary">
+					Save
+				</button>
+
+				<a class="btn btn-primary text text-end" asp-controller="Member" asp-action="Index">Go Back</a>
+			</div>
+		</div>
+		<div class="col-2 pt-5">
+			<img src="@Model.ImageUrl" width="100%" style="border-radius:5px; border-top:5px solid; color:brown"/>
+		</div>
+	</div>
+	
+
+	
+</form>
+@section Scripts{
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+}

@@ -1,0 +1,51 @@
+﻿@model Member
+
+<form method="post">
+	<input asp-for="Id" hidden />
+	<div>
+		<h1 class="text pt-4"> Delete member</h1>
+		<div class="form-group">
+			<label asp-for="Name" class="form-label mt-4">Name</label>
+			<input asp-for="Name" disabled class="form-control" placeholder="Enter name">
+		</div>
+		<div class="form-group">
+			<label asp-for="Age" class="form-label mt-4">Age</label>
+			<input asp-for="Age" disabled class="form-control" placeholder="Enter age">
+		</div>
+		<div class="form-group">
+			<label asp-for="Phone" class="form-label mt-4">Phone</label>
+			<input asp-for="Phone" disabled class="form-control" placeholder="Enter phone">
+		</div>
+		<div class="form-group">
+			<label asp-for="Sessions" class="form-label mt-4">Sessions</label>
+			<input asp-for="Sessions" disabled class="form-control" placeholder="Enter number of sessions">
+		</div>
+		<div class="form-group">
+			<label for="Rank"  class="form-label mt-4">Select rank</label>
+			<select asp-for="Rank" disabled class="form-select">
+				<option>White belt</option>
+				<option>Blue belt</option>
+				<option>Purple belt</option>
+				<option>Brown belt</option>
+				<option>Black belt</option>
+			</select>
+		</div>
+
+
+		<div class="form-group">
+			<label for="exampleTextarea"  class="form-label mt-4">Additional informations</label>
+			<textarea class="form-control" disabled rows="3"></textarea>
+		</div>
+		<div class="form-group">
+			<label for="formFile" class="form-label mt-4">Default file input example</label>
+			<input class="form-control" disabled type="file" id="formFile">
+		</div>
+
+
+		<button type="submit" class="btn btn-danger">
+			Delete
+		</button>
+
+		<a class="btn btn-primary text text-end" asp-controller="Member" asp-action="Index">Go Back</a>
+	</div>
+</form>

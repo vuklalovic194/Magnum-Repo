@@ -1,0 +1,38 @@
+﻿@model List<Product>
+<div class="wrapper" style="margin:auto; width: 1200px">
+	<header>
+		<div class="col-12 d-flex pt-5" style="align-content:center; margin:auto; justify-content:space-between">
+			<h1 class="" style="align-content:center">ONLINE SHOP</h1>
+
+			<form asp-controller="Home" asp-action="Shop" class="d-flex" >
+				<input class="form-control me-sm-2" type="text" accept="string" alt="search" name="searchString" placeholder="ex: Boxing gloves">
+				<button class="btn btn-secondary my-2 my-sm-0" type="submit">Search for product</button>
+			</form>
+		</div>
+	</header>
+	<div class="col-12 d-flex ">
+
+		@foreach (var prod in Model)
+		{
+			<div class="pt-5">
+				<div class="d-flex" style="margin-right:7em; width:200px; font-weight:bold">
+					<div>
+						<img src="@prod.ImageUrl" class="card card" style="border-radius:.8em; height:280px; width:260px; " />
+						@prod.Title <br>
+						@prod.Description<br>
+						<div class="text-success" style="">
+							@prod.Price.ToString("c")
+						</div>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+</div>
+
+
+
+
+
+
+

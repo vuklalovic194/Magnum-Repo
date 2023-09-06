@@ -1,0 +1,51 @@
+﻿@model ProductVM
+
+
+<form method="post" enctype="multipart/form-data">
+	<input asp-for="Product.Id" hidden />
+	<input asp-for="Product.ImageUrl" hidden />
+	<div class="col-4">
+		<h1 class="text pt-4"> Delete product</h1>
+		<div class="form-group">
+			<label asp-for="Product.Title" class="form-label mt-4">Title</label>
+			<input asp-for="Product.Title" class="form-control" placeholder="Enter Title">
+			<span asp-validation-for="Product.Title" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Product.Description" class="form-label mt-4">Description</label>
+			<input asp-for="Product.Description" class="form-control" placeholder="Enter Description">
+		</div>
+
+		<div class="form-group">
+			<label asp-for="Product.Price" class="form-label mt-4">Price</label>
+			<input asp-for="Product.Price" class="form-control" placeholder="Enter Price">
+		</div>
+		<div class="form-group">
+			<label class="form-label mt-4" asp-for="@Model.Product.CategoryId"></label>
+			<select asp-for="@Model.Product.CategoryId" asp-items="@Model.productList" class="form-control ">
+				<option disabled selected> --Select Category-- </option>
+
+			</select>
+		</div>
+
+		<div class="form-group">
+			<label for="formFile" class="form-label mt-4">Default file input example</label>
+			<input class="form-control" type="file" name="file">
+		</div>
+
+		<div class="pt-2">
+			<button type="submit" class="btn btn-danger ">
+				Delete
+			</button>
+
+			<a class="btn btn-primary text text-end" asp-area="Admin" asp-controller="ShopManagement" asp-action="Index">Go Back</a>
+		</div>
+
+	</div>
+
+</form>
+@section Scripts{
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+}

@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Magnum Managment and Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Magnum Managment and Shop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\HomePage\\ShopMagnum.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\ShopMagnum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\HomePage\\magnum dule.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\magnum dule.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\HomePage\\magnum na takmicenju.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\magnum na takmicenju.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\HomePage\\medalja magnum.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\medalja magnum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\HomePage\\savke podijum prvo mesto zastava magnum.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\savke podijum prvo mesto zastava magnum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\MAGNUM FINALY.jpeg",
+      "PackagePath": "staticwebassets\\Images\\MAGNUM FINALY.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\MAGNUM LOGO1.jpg",
+      "PackagePath": "staticwebassets\\Images\\MAGNUM LOGO1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\MAGNUMBACKGROUND.jpg",
+      "PackagePath": "staticwebassets\\Images\\MAGNUMBACKGROUND.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\Member\\1ccbcd88-3940-4bc3-8701-73191ab8f642.JPG",
+      "PackagePath": "staticwebassets\\Images\\Member\\1ccbcd88-3940-4bc3-8701-73191ab8f642.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\Member\\37e17da8-5127-4cdc-811a-d39d18463a54.jpg",
+      "PackagePath": "staticwebassets\\Images\\Member\\37e17da8-5127-4cdc-811a-d39d18463a54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\Member\\93cf4b6b-04ce-4feb-a18b-85c1566759e3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Member\\93cf4b6b-04ce-4feb-a18b-85c1566759e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\Member\\bbc0062b-2718-4989-835a-3cf6555b7c30.png",
+      "PackagePath": "staticwebassets\\Images\\Member\\bbc0062b-2718-4989-835a-3cf6555b7c30.png"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\Member\\c754243b-647f-4800-abf3-b1dd1ab3ce3a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Member\\c754243b-647f-4800-abf3-b1dd1ab3ce3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\Products\\3d4f2c67-6e5c-4169-be1e-3e71adfd6743.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\3d4f2c67-6e5c-4169-be1e-3e71adfd6743.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\Products\\b0430613-7cd2-432e-80a2-ae19b2a74e22.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b0430613-7cd2-432e-80a2-ae19b2a74e22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\Images\\Products\\c7d06f73-102d-48b3-9e5b-cbf913fa9b6d.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\c7d06f73-102d-48b3-9e5b-cbf913fa9b6d.png"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\css\\bootstrap lux.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap lux.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\css\\map.css",
+      "PackagePath": "staticwebassets\\css\\map.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\js\\category.js",
+      "PackagePath": "staticwebassets\\js\\category.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\js\\javascriptMAP.js",
+      "PackagePath": "staticwebassets\\js\\javascriptMAP.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\js\\map.js",
+      "PackagePath": "staticwebassets\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vukla\\source\\repos\\Mag\\Magnum Managment and Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Magnum Managment and Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Magnum Managment and Shop.props",
+      "PackagePath": "build\\Magnum Managment and Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Magnum Managment and Shop.props",
+      "PackagePath": "buildMultiTargeting\\Magnum Managment and Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Magnum Managment and Shop.props",
+      "PackagePath": "buildTransitive\\Magnum Managment and Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

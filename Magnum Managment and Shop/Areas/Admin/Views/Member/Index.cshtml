@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Member>
+@*<form asp-controller="Movies" asp-action="Index">
+	<p>
+		Title: <input type="text" name="SearchString" />
+		<input type="submit" value="Filter" />
+	</p>
+</form>*@
+
+@*@{ViewData["Name"] = "Index";}*@
+
+<div class="container p-3">
+	<div class="row pt-4">
+		<div class="column-6 pb-4">
+			<h2>Management</h2>
+		</div>
+		<div class="wrapper" style="width:1200px">
+			<div class="d-flex col-12 text-start pb-4" style="justify-content:space-between">
+				<a asp-area="admin" asp-controller="Member" asp-action="Upsert" class="btn btn-primary">
+					Create new Member
+				</a>
+				<form class="d-flex">
+					<div class="col-12 ">
+						<a asp-area="admin" asp-controller="Member" asp-action="Index">
+						</a>
+						Search Member:
+						<input type="text" name="searchString" placeholder="" />
+						<input class="btn btn-primary" type="submit" />
+					</div>
+				</form>
+			</div>
+			
+		</div>
+
+	</div>
+	<table class="table table-bordered table-striped" style="width:100%">
+		<thead>
+			<tr>
+				<th width="10%">
+					Image
+				</th>
+				<th width="20%">
+					Members
+				</th>
+				<th width="10%">
+					Age
+				</th>
+				<th width="10%">
+					Sessions
+				</th>
+				<th width="20%">
+					Rank
+				</th>
+				<th width="30%">
+					Management
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var cat in Model)
+			{
+				<tr>
+
+					<td>
+						<img src="@cat.ImageUrl" width="50%">
+					</td>
+					<td>
+						<a asp-controller="Member" asp-action="Edit" asp-route-id="@cat.Id" class="nav-link  text text-primary">@cat.Name</a>
+					</td>
+					<td>
+						@cat.Age
+					</td>
+					<td>
+						@cat.Sessions
+					</td>
+					<td>
+						@cat.Rank
+					</td>
+					<td>
+						<div class="d-flex">
+							<a asp-controller="Member" asp-action="Edit" asp-route-id="@cat.Id" class="btn btn-primary mx-2">
+								Edit
+							</a>
+						
+							<a asp-controller="Member" asp-action="Delete" asp-route-id="@cat.Id" class="btn btn-danger mx-2">
+								Delete
+							</a>
+						</div>
+					</td>
+				</tr>
+
+			}
+		</tbody>
+	</table>
+	<a asp-area="" asp-controller="Home" asp-action="Index" class="btn btn-primary">
+		Go Back
+	</a>
+
+</div>
